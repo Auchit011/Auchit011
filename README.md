@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Auchitya Chauhan</h1>
-<h3 align="center">An Alive and Kicking fullstack developer from India</h3>
+<h3 align="center">An Alive and Kicking MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/78/7821a8c6532bb0dc7d6c4b75574289f0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auchityachauhan131&label=Profile%20views&color=0e75b6&style=flat" alt="auchityachauhan131" /> </p>
